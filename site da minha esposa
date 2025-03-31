@@ -132,7 +132,7 @@
 
     <div class="music-control">
         <!-- Música do Spotify em tamanho menor -->
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0qaEgZu9Qq9D41zyiAiiro?utm_source=generator" width="80%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2sSbQIX5cDgtzJAXnLqHpV?utm_source=generator" width="80%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
 
     <div class="container">
